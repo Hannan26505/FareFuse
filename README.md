@@ -1,20 +1,20 @@
-# RideWise 
+# FareFuse 
 
 ### Compare rides. Save money. Travel smarter.
 
 ## Overview
 
-RideWise is a ride fare comparison application designed to help users compare estimated ride prices across multiple ride-hailing platforms, such as Uber, Rapido, and Ola, from a single interface.
+FareFuse is a ride fare comparison application designed to help users compare estimated ride prices across multiple ride-hailing platforms, such as Uber, Rapido, and Ola, from a single interface.
 
 Currently, users often have to open multiple applications, enter their pickup and destination locations repeatedly, and compare prices manually before booking a ride. This process can be time-consuming and inconvenient.
 
-RideWise aims to simplify this experience by allowing users to enter their journey details once, compare available fare estimates in one place, and proceed to their preferred ride-hailing platform to complete the booking.
+FareFuse aims to simplify this experience by allowing users to enter their journey details once, compare available fare estimates in one place, and proceed to their preferred ride-hailing platform to complete the booking.
 
 ##  Problem Statement
 
 Finding an affordable ride often requires switching between multiple ride-hailing applications. Prices, availability, and estimated arrival times may vary across platforms, making it difficult to quickly identify the most suitable option.
 
-RideWise aims to reduce this friction by bringing ride comparison into a single, convenient interface.
+FareFuse aims to reduce this friction by bringing ride comparison into a single, convenient interface.
 
 ##  Proposed Solution
 
@@ -63,7 +63,7 @@ Development has not started yet. Initial versions will use sample fare data to d
 
 ##  Goal
 
-The goal of RideWise is to make finding an affordable ride faster and more convenient by reducing the need to switch between multiple ride-hailing applications.
+The goal of FareFuse is to make finding an affordable ride faster and more convenient by reducing the need to switch between multiple ride-hailing applications.
 
 ##  Contributions
 
@@ -71,4 +71,4 @@ Suggestions, feedback, and ideas for improving the application are welcome as th
 
 ---
 
-*RideWise is an independent project concept. It is not affiliated with or endorsed by Uber, Rapido, or Ola.*
+*FareFuse is an independent project concept. It is not affiliated with or endorsed by Uber, Rapido, or Ola.*
