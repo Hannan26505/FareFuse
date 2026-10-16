@@ -1,8 +1,8 @@
-# RideWise 🚗
+# RideWise 
 
 ### Compare rides. Save money. Travel smarter.
 
-## 📌 Overview
+## Overview
 
 RideWise is a ride fare comparison application designed to help users compare estimated ride prices across multiple ride-hailing platforms, such as Uber, Rapido, and Ola, from a single interface.
 
@@ -10,13 +10,13 @@ Currently, users often have to open multiple applications, enter their pickup an
 
 RideWise aims to simplify this experience by allowing users to enter their journey details once, compare available fare estimates in one place, and proceed to their preferred ride-hailing platform to complete the booking.
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Finding an affordable ride often requires switching between multiple ride-hailing applications. Prices, availability, and estimated arrival times may vary across platforms, making it difficult to quickly identify the most suitable option.
 
 RideWise aims to reduce this friction by bringing ride comparison into a single, convenient interface.
 
-## 💡 Proposed Solution
+##  Proposed Solution
 
 The application will provide a unified interface where users can:
 
@@ -28,7 +28,7 @@ The application will provide a unified interface where users can:
 
 The application will focus on comparison and discovery rather than directly operating a ride-booking service.
 
-## ✨ Planned Features
+##  Planned Features
 
 - **Single Search:** Enter pickup and destination details once.
 - **Fare Comparison:** View ride estimates from supported providers in one place.
@@ -37,7 +37,7 @@ The application will focus on comparison and discovery rather than directly oper
 - **Booking Redirection:** Open the selected provider's booking flow with journey details where supported.
 - **Responsive Interface:** Design an experience suitable for desktop and mobile screens.
 
-## 🛠️ Proposed Technology Stack
+##  Proposed Technology Stack
 
 - **Frontend:** React.js
 - **Backend:** Node.js and Express.js
@@ -46,7 +46,7 @@ The application will focus on comparison and discovery rather than directly oper
 
 A database may be introduced later if user accounts, saved locations, or other persistent features are required.
 
-## 🗺️ Development Roadmap
+##  Development Roadmap
 
 - [ ] Phase 1: Define requirements and design the application interface.
 - [ ] Phase 2: Build the frontend with pickup and destination inputs.
@@ -55,17 +55,17 @@ A database may be introduced later if user accounts, saved locations, or other p
 - [ ] Phase 5: Investigate official API access for live fare estimates.
 - [ ] Phase 6: Test, refine, and deploy the application.
 
-## ⚠️ Current Status
+##  Current Status
 
 **Stage:** Idea and planning
 
 Development has not started yet. Initial versions will use sample fare data to demonstrate the comparison workflow. Access to real-time fare estimates will depend on the availability and permissions of the relevant service providers.
 
-## 🎯 Goal
+##  Goal
 
 The goal of RideWise is to make finding an affordable ride faster and more convenient by reducing the need to switch between multiple ride-hailing applications.
 
-## 🤝 Contributions
+##  Contributions
 
 Suggestions, feedback, and ideas for improving the application are welcome as the project evolves.
 
